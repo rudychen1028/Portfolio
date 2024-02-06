@@ -11,4 +11,6 @@
     <img src="nagios.png" width="500" height="280"><BR>
   - 建置Slurm <BR>
     <img src="slurm.png" width="500" height="280"><BR>
+  - 開發部署至各機器的shell script 程式
+    deploy.sh
 <hr>
