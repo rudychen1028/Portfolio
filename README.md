@@ -11,6 +11,10 @@
     <img src="nagios.png" width="500" height="280"><BR>
   - 建置Slurm <BR>
     <img src="slurm.png" width="500" height="280"><BR>
-  - 開發部署至各機器的shell script 程式
-    deploy.sh
+  - 部署至各機器的shell script 程式
+    ( deploy.sh / transfer_data.sh)
+  - 收集網路數據資料的python 程式
+    ( zeek_to_hadoop.py / prometheus_to _local.py / calculate_test / load_test )
+  - Nagios檢查各服務的shell script程式
+    ( nagios_plugins )
 <hr>
